@@ -1,4 +1,4 @@
-# Kaizen-bot (discord bot)
+# Discord bot
 
 [Setup your application](docs/setup-your-discord-application.md)
 
